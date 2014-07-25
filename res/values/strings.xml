@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorLog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="logging_on_off">On/Off logger</string>
+    <string name="marker_hint_text">Marker text</string>
+    <string name="mark_it">Save marker</string>
+    <string name="mark_it_walk_start">Mark walk start</string>
+    <string name="mark_it_walk_stop">Mark walk stop</string>
+    <string name="never_flushed">Never flushed</string>
+
+</resources>
